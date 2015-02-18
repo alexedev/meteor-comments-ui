@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'arkham:comments-ui',
+  name: 'buduguru:comments-ui',
   summary: 'Simple templates for disqus-like comment functionality',
   version: '0.2.0',
-  git: 'https://github.com/ARKHAM-Enterprises/meteor-comments-ui.git'
+  git: 'https://github.com/buduguru/meteor-comments-ui.git'
 });
 
 Package.onUse(function(api) {
