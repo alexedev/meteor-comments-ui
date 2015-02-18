@@ -1,7 +1,7 @@
 Package.describe({
   name: 'buduguru:comments-ui',
   summary: 'Simple templates for disqus-like comment functionality',
-  version: '0.2.0',
+  version: '0.2.3',
   git: 'https://github.com/buduguru/meteor-comments-ui.git'
 });
 
