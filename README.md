@@ -15,7 +15,7 @@ This package lets you add __disqus like__ comment functionality in a matter of s
 ## How to install
 
 ```bash
-meteor add arkham:comments-ui
+meteor add buduguru:comments-ui
 ```
 
 ## UI Templates
